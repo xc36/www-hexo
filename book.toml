@@ -1,0 +1,12 @@
+[book]
+authors = ["xc"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "xc and jackie"
+
+[output.html]
+mathjax-support = true
+
+[build]
+build-dir = "book"
